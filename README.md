@@ -1,10 +1,7 @@
-Use:
-ubuntu🟠/xfce🐭
+**Use:** EndeavourOS:purple_circle:/xfce:mouse:
 
-Play:
-Warzone2100🪖 MineTest🌱 
+**Play:** Warzone2100:military_helmet: MineTest:seedling:
 
-Know:
-.py🐍  .java☕  .php🟦  .sh💲  .js🟨  .lua🔵
+**Know:** .py:snake: .java:coffee: .php:blue_square: .sh:heavy_dollar_sign: .js:yellow_square: .lua:blue_circle:
 
-#FreePalestine
+**#FreePalestine**
